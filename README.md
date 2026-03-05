@@ -4,8 +4,8 @@ A small interactive 3D cube demo built with HTML, JavaScript and styles (Sass). 
 
 ## Preview
 
-- ![Cube preview 1](src/1.png)
-- ![Cube preview 2](src/2.png)
+- ![Cube preview 1](dist/1.png)
+- ![Cube preview 2](dist/2.png)
 
 > If the images don't show when viewing on GitHub, place `1.png` and `2.png` into the `src/` folder (next to `index.html`).
 
