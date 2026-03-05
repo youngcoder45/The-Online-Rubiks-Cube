@@ -33,7 +33,3 @@ There is also a `dist/` folder (if present) that may contain built/compiled outp
 - This is a front-end demo; no server is required.
 - To include the screenshots in this README on GitHub, ensure `src/1.png` and `src/2.png` are committed alongside the source files.
 
-If you want, I can also:
-- compile `style.sass` to `src/style.css` and add it,
-- inline a short usage snippet for embedding the cube on other pages,
-- or add a short LICENSE file.
